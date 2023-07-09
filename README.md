@@ -6,6 +6,7 @@
 ### git config --global user.name "username"
 ### git config --global user.email "email"
 
-#### check
-#### `git config user.name`
-#### `git config user.email`
+## check username and email
+
+### `git config user.name`
+### `git config user.email`
