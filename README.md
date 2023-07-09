@@ -1,5 +1,5 @@
 # Getting-Started-Github
-#Git
+# Git
 
 ## Setting up your global username and email
 
