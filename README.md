@@ -13,6 +13,6 @@ Before you do using it, first remember to config your Git. You can use CLI or Co
 
 ## Documentary by Github
 
-You can check documentary here
-<a href='https://docs.github.com/en/get-started/getting-started-with-git'> Git Documentation <a>
+You can check documentary here Getting Started With Git
+<a href='https://docs.github.com/en/get-started/getting-started-with-git'> Github Documentation <a>
 
