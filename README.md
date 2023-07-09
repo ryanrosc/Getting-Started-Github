@@ -7,5 +7,5 @@
 ### git config --global user.email "email"
 
 #### check
-#### `git config user.name
-#### `git config user.email
+#### `git config user.name`
+#### `git config user.email`
