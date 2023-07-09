@@ -1,4 +1,5 @@
 ## Getting-Started-Github
+Before you do using it, first remember to config your Git. You can use CLI or Code Editor Terminal.
 
 ## Setting up your global username and email
 
@@ -9,3 +10,9 @@
 
 `git config user.name`
 `git config user.email`
+
+## Documentary by Github
+
+You can check documentary here
+<a href='https://docs.github.com/en/get-started/getting-started-with-git'> Git Documentation <a>
+
